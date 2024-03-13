@@ -1,0 +1,59 @@
+C:\Users\RYZEN5\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\RYZEN5\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\RYZEN5\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\RYZEN5\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\RYZEN5\source\repos\WindowsApp1\WindowsApp1\obj\Debug\DataGridViewTheme.vbprojAssemblyReference.cache
+C:\Users\RYZEN5\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.theme1.resources
+C:\Users\RYZEN5\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\RYZEN5\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.theme10.resources
+C:\Users\RYZEN5\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.theme11.resources
+C:\Users\RYZEN5\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.theme12.resources
+C:\Users\RYZEN5\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.theme13.resources
+C:\Users\RYZEN5\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.theme14.resources
+C:\Users\RYZEN5\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.theme15.resources
+C:\Users\RYZEN5\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.theme2.resources
+C:\Users\RYZEN5\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.theme3.resources
+C:\Users\RYZEN5\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.theme4.resources
+C:\Users\RYZEN5\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.theme5.resources
+C:\Users\RYZEN5\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.theme6.resources
+C:\Users\RYZEN5\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.theme7.resources
+C:\Users\RYZEN5\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.theme8.resources
+C:\Users\RYZEN5\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.theme9.resources
+C:\Users\RYZEN5\source\repos\WindowsApp1\WindowsApp1\obj\Debug\DataGridViewTheme.vbproj.GenerateResource.cache
+C:\Users\RYZEN5\source\repos\WindowsApp1\WindowsApp1\obj\Debug\DataGridViewTheme.vbproj.CoreCompileInputs.cache
+C:\Users\RYZEN5\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\RYZEN5\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\RYZEN5\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\RYZEN5\source\repos\WindowsApp1\WindowsApp1\bin\Debug\FiveCodMaterialDesign.dll
+C:\Users\RYZEN5\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.FormPrueba.resources
+C:\Users\RYZEN5\source\repos\WindowsApp1\WindowsApp1\obj\Debug\DataGridViewTheme.vbproj.CopyComplete
+E:\2020 I - Antonio Aburto Cortez\FiveCod Software - Diseños C#\Proyecto Librerias nuevo\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+E:\2020 I - Antonio Aburto Cortez\FiveCod Software - Diseños C#\Proyecto Librerias nuevo\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+E:\2020 I - Antonio Aburto Cortez\FiveCod Software - Diseños C#\Proyecto Librerias nuevo\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+E:\2020 I - Antonio Aburto Cortez\FiveCod Software - Diseños C#\Proyecto Librerias nuevo\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+E:\2020 I - Antonio Aburto Cortez\FiveCod Software - Diseños C#\Proyecto Librerias nuevo\WindowsApp1\WindowsApp1\bin\Debug\FiveCodMaterialDesign.dll
+E:\2020 I - Antonio Aburto Cortez\FiveCod Software - Diseños C#\Proyecto Librerias nuevo\WindowsApp1\WindowsApp1\obj\Debug\DataGridViewTheme.vbproj.AssemblyReference.cache
+E:\2020 I - Antonio Aburto Cortez\FiveCod Software - Diseños C#\Proyecto Librerias nuevo\WindowsApp1\WindowsApp1\obj\Debug\DataGridViewTheme.vbproj.SuggestedBindingRedirects.cache
+E:\2020 I - Antonio Aburto Cortez\FiveCod Software - Diseños C#\Proyecto Librerias nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.FormPrueba.resources
+E:\2020 I - Antonio Aburto Cortez\FiveCod Software - Diseños C#\Proyecto Librerias nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.theme1.resources
+E:\2020 I - Antonio Aburto Cortez\FiveCod Software - Diseños C#\Proyecto Librerias nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+E:\2020 I - Antonio Aburto Cortez\FiveCod Software - Diseños C#\Proyecto Librerias nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.theme10.resources
+E:\2020 I - Antonio Aburto Cortez\FiveCod Software - Diseños C#\Proyecto Librerias nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.theme11.resources
+E:\2020 I - Antonio Aburto Cortez\FiveCod Software - Diseños C#\Proyecto Librerias nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.theme12.resources
+E:\2020 I - Antonio Aburto Cortez\FiveCod Software - Diseños C#\Proyecto Librerias nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.theme13.resources
+E:\2020 I - Antonio Aburto Cortez\FiveCod Software - Diseños C#\Proyecto Librerias nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.theme14.resources
+E:\2020 I - Antonio Aburto Cortez\FiveCod Software - Diseños C#\Proyecto Librerias nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.theme15.resources
+E:\2020 I - Antonio Aburto Cortez\FiveCod Software - Diseños C#\Proyecto Librerias nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.theme2.resources
+E:\2020 I - Antonio Aburto Cortez\FiveCod Software - Diseños C#\Proyecto Librerias nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.theme3.resources
+E:\2020 I - Antonio Aburto Cortez\FiveCod Software - Diseños C#\Proyecto Librerias nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.theme4.resources
+E:\2020 I - Antonio Aburto Cortez\FiveCod Software - Diseños C#\Proyecto Librerias nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.theme5.resources
+E:\2020 I - Antonio Aburto Cortez\FiveCod Software - Diseños C#\Proyecto Librerias nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.theme6.resources
+E:\2020 I - Antonio Aburto Cortez\FiveCod Software - Diseños C#\Proyecto Librerias nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.theme7.resources
+E:\2020 I - Antonio Aburto Cortez\FiveCod Software - Diseños C#\Proyecto Librerias nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.theme8.resources
+E:\2020 I - Antonio Aburto Cortez\FiveCod Software - Diseños C#\Proyecto Librerias nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.theme9.resources
+E:\2020 I - Antonio Aburto Cortez\FiveCod Software - Diseños C#\Proyecto Librerias nuevo\WindowsApp1\WindowsApp1\obj\Debug\DataGridViewTheme.vbproj.GenerateResource.cache
+E:\2020 I - Antonio Aburto Cortez\FiveCod Software - Diseños C#\Proyecto Librerias nuevo\WindowsApp1\WindowsApp1\obj\Debug\DataGridViewTheme.vbproj.CoreCompileInputs.cache
+E:\2020 I - Antonio Aburto Cortez\FiveCod Software - Diseños C#\Proyecto Librerias nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+E:\2020 I - Antonio Aburto Cortez\FiveCod Software - Diseños C#\Proyecto Librerias nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+E:\2020 I - Antonio Aburto Cortez\FiveCod Software - Diseños C#\Proyecto Librerias nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+E:\2020 I - Antonio Aburto Cortez\FiveCod Software - Diseños C#\Proyecto Librerias nuevo\WindowsApp1\WindowsApp1\obj\Debug\DataGridViewTheme.vbproj.CopyComplete
